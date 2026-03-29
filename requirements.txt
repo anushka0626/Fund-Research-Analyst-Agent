@@ -1,0 +1,5 @@
+google-adk==1.14.0
+python-dotenv
+google-cloud-logging
+google-api-python-client
+google-search-results
